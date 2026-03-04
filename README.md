@@ -6,7 +6,7 @@ I build scalable, responsive, and user-focused web applications using the MERN S
 
 💻 Tech Stack:
 
-FRONTEND: React.js, HTML5, CSS3, JavaScript, Tailwind CSS
+FRONTEND: React.js, HTML5, CSS3, JavaScript, Tailwind CSS,Scss
 
 BACKEND: Node.js, Express.js
 
